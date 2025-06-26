@@ -4,7 +4,7 @@ Interactive Power BI dashboard for financial data with chart toggling and time i
 
  A dynamic Power BI dashboard that analyzes financial performance by product and region.
 
-## Features
+## Features 
 
 - Pie Chart vs Bar Chart Toggle using **Bookmarks + Buttons**
 - Time Intelligence enabled (marked date table)
